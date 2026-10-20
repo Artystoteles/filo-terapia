@@ -89,6 +89,45 @@ class Footer extends HTMLElement {
 
             <div class="flex-1 flex flex-col gap-3">
               <h2 class="text-xl font-black uppercase tracking-wider text-secondary-400">
+                Terapie w Gdańsku
+              </h2>
+
+              <ul class="flex flex-col gap-2 text-sm md:text-base">
+                <li>
+                  <a href="neurologopeda-gdansk.html" class="hover:text-primary-400 transition-colors duration-200">
+                    Neurologopeda Gdańsk
+                  </a>
+                </li>
+                <li>
+                  <a href="terapia-manualna-gdansk.html" class="hover:text-primary-400 transition-colors duration-200">
+                    Terapia manualna Gdańsk
+                  </a>
+                </li>
+                <li>
+                  <a href="terapia-si-gdansk.html" class="hover:text-primary-400 transition-colors duration-200">
+                    Terapia SI Gdańsk
+                  </a>
+                </li>
+                <li>
+                  <a href="dyskopatia-gdansk.html" class="hover:text-primary-400 transition-colors duration-200">
+                    Dyskopatia Gdańsk
+                  </a>
+                </li>
+                <li>
+                  <a href="terapia-czaszkowo-krzyzowa-gdansk.html" class="hover:text-primary-400 transition-colors duration-200">
+                    Terapia czaszkowo-krzyżowa Gdańsk
+                  </a>
+                </li>
+                <li>
+                  <a href="suche-iglowanie-gdansk.html" class="hover:text-primary-400 transition-colors duration-200">
+                    Suche igłowanie Gdańsk
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="flex-1 flex flex-col gap-3">
+              <h2 class="text-xl font-black uppercase tracking-wider text-secondary-400">
                 Obserwuj nas
               </h2>
 
